@@ -1,25 +1,12 @@
 # Text Editor Starter Code
 
-
-## Table of Contents
-
--   [Description](#description)
--   [Screenshot](#screenshot)
--   [Technologies](#technologies)
--   [Installation](#installation)
--   [Usage](#usage)
--   [License](#license)
--   [Contributing](#contributing)
--   [Tests](#tests)
--   [Questions](#questions)
+App Link: https://text-editor-pwa-jate-2022.herokuapp.com/
 
 ## Description
+ 
+ This text editor is a single-page application that meets the PWA criteria. It features several data persistence techniques that allow the app also to work offline. 
 
-A text editor that runs in the browser, and can be installed. Data persists between the install app and the app in the browser
-
-## Screenshot
-
-## Technologies
+## Technologies Used
 
 -   HTML5
 -   CSS3
@@ -28,3 +15,7 @@ A text editor that runs in the browser, and can be installed. Data persists betw
 -   Express.js
 -   IndexedDB
 -   Heroku
+
+## Stage
+
+In progress
